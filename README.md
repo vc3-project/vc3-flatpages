@@ -15,7 +15,7 @@ Once the new article.md file is create, each markdown file is made up of a YAML 
 of metadata, a blank line, and the page body:
 
     title: VC3 Kickoff Meeting
-    date: June 7, 2016
+    date: YYYY-MM-DD
     tags: [meetings]
 
     Hello, *World*!
