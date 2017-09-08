@@ -6,4 +6,4 @@ With the Fall "capability demonstrator" at the end of the month, the VC3 team ha
 
 We were able to create a virtual cluster and submit sample workloads to UChicago's Midway campus cluster and MWT2's CoreOS Cluster and request the creation of a virtual cluster from the website. We also finalized where and which payloads we would submit during the "capability demonstrator," mainly UChicago's Midway campus cluster, MWT2's CoreOS Cluster, NERSC's Cori, and Syracuse's OrangeGrid.
 
-![alt text](https://raw.githubusercontent.com/vc3-project/vc3-flatpages/master/images/2017-09-07-Sept-2017-Developer-meeting/grafana_plot_workloads.png "Workloads Starting on Virtual Cluster")
+![alt text](https://raw.githubusercontent.com/vc3-project/vc3-flatpages/master/images/2017-09-07-Sept-2017-Developer-meeting/grafana_plot_workloads.png "Workloads Starting on Virtual Cluster" | width=400)
