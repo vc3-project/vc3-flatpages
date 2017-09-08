@@ -8,4 +8,4 @@ We were able to create a virtual cluster and submit sample workloads to UChicago
 
 ![alt text](https://raw.githubusercontent.com/vc3-project/vc3-flatpages/master/images/2017-09-07-Sept-2017-Developer-meeting/grafana_plot_workloads.png "Workloads Starting on Virtual Cluster" | width=400)
 
-<img src="https://raw.githubusercontent.com/vc3-project/vc3-flatpages/master/images/2017-09-07-Sept-2017-Developer-meeting/grafana_plot_workloads.png" align="left" width="400" >
+<img src="https://raw.githubusercontent.com/vc3-project/vc3-flatpages/master/images/2017-09-07-Sept-2017-Developer-meeting/grafana_plot_workloads.png" align="left" width="80%" >
