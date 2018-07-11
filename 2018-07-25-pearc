@@ -1,0 +1,28 @@
+title: VC3 at PEARC18
+date: 2018-07-25
+tags: [papers]
+
+The VC3 team will be at [PEARC18](http://pearc.org/) in Pittsburgh, PA. 
+
+## VC3: A Virtual Cluster Service for Community Computation
+
+- Event Type: Technical Paper
+- Presentation: Wednesday, July 253:45pm - 4pm
+- Location Grand Ballroom 3
+
+### Description
+> A traditional HPC computing facility provides a large amount of computing power but has a fixed
+> environment designed to satisfy local needs. This makes it very challenging for users to deploy complex applications that span multiple sites and require specific application software,
+> scheduling middleware, or sharing policies. The DOE-funded VC3 project aims to address these challenges by making it possible for researchers to easily aggregate and share resources, install custom software environments, and deploy clustering frameworks across multiple HPC facilities through the concept of ``virtual clusters''. This paper presents the design, implementation, and initial experience with our prototype self-service VC3 platform which automates deployment of cluster frameworks across diverse computing facilities.
+> To create a virtual cluster, the VC3 platform materializes a custom head node in a secure private cloud, specifies a choice of scheduling middleware, then allocates resources from the remote facilities where the desired software and clustering framework is installed in user space. As resources become available from scheduled nodes from individual clusters, the research team simply sees a private cluster they can access directly or share with collaborators, such as a science gateway community. We discuss how this service can be used by research collaborations requiring shared resources, specific middleware frameworks, and complex applications and workflows in the areas of astrophysics, bioinformatics and high energy physics.
+
+### Authors
+- Lincoln Bryant University of Chicago
+- Jeremy Van University of Chicago
+- Benedikt Riedel University of Chicago
+- Robert Gardner University of Chicago
+- Jose Caballero Bejar Brookhaven National Lab
+- John Hover Brookhaven National Lab
+- Ben Tovar University of Notre Dame
+- Kenyi Hurtado University of Notre Dame
+- Douglas Thain University of Notre Dame
