@@ -8,4 +8,4 @@ CMS grid computing resources and how to plug in campus resources to
 the CRAB infrastructure with only user access level to the resource.
 We also advertised we are accepting beta users.
 
-[slides](images/2018-10-25-cmsocweek/2018-10-25-cmsocweek.pdf)
+<embed src="https://github.com/vc3-project/vc3-flatpages/blob/master/images/2018-10-25-cmsocweek/2018-10-25-cmsocweek.pdf" width="100%" height="100%"></embed>
